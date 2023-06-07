@@ -1,0 +1,2 @@
+# Unturned-with-friends
+server
