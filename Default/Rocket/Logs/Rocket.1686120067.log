@@ -1,0 +1,101 @@
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[7/6/2023 3:14:08 a. m.] [Info] Other mapping to: Rocket.Unturned.Commands.UnturnedCommands/admin / Rocket.Unturned.Commands.CommandAdmin/admin
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[7/6/2023 3:14:08 a. m.] [Info] Other mapping to: Rocket.Unturned.Commands.UnturnedCommands/help / Rocket.Unturned.Commands.CommandHelp/help
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[7/6/2023 3:14:08 a. m.] [Info] Other mapping to: Rocket.Unturned.Commands.UnturnedCommands/unadmin / Rocket.Unturned.Commands.CommandUnadmin/unadmin
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[7/6/2023 3:14:08 a. m.] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[7/6/2023 3:14:08 a. m.] [Info] This server will automatically save every 1800 seconds
+[7/6/2023 3:14:09 a. m.] [Info] Steam servers ready!
+[7/6/2023 3:14:10 a. m.] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/Default/Workshop/Steam
+[7/6/2023 3:14:10 a. m.] [Info] 0 workshop item(s) requested
+[7/6/2023 3:14:10 a. m.] [Info] Loading level: 5%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 10%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 15%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 21%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 26%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 31%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 36%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 42%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 47%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 52%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 57%
+[7/6/2023 3:14:11 a. m.] [Info] Loading level: 63%
+[7/6/2023 3:14:13 a. m.] [Info] Loading level: 68%
+[7/6/2023 3:14:13 a. m.] [Info] Loading level: 73%
+[7/6/2023 3:14:14 a. m.] [Info] Loading level: 89%
+[7/6/2023 3:14:14 a. m.] [Info] Loading level: 94%
+[7/6/2023 3:14:14 a. m.] [Info] Loading level: 100%
+[7/6/2023 3:16:50 a. m.] [Info] Connecting: PlayerID: 76561198150589922 Name: PabloSerrone Character: Pablo Serrone
+[7/6/2023 3:17:02 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/night"
+[7/6/2023 3:17:13 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/day"
+[7/6/2023 3:17:35 a. m.] [Error] Failed to find anyone called Pablo/Serrone.
+[7/6/2023 3:17:39 a. m.] [Info] Successfully admined 76561198150589922!
+[7/6/2023 3:17:47 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/day"
+[7/6/2023 3:17:47 a. m.] [Info] Successfully set time to day!
+[7/6/2023 3:17:52 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/night"
+[7/6/2023 3:17:54 a. m.] [Info] Successfully set time to night!
+[7/6/2023 3:17:54 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/day"
+[7/6/2023 3:17:54 a. m.] [Info] Successfully set time to day!
+[7/6/2023 3:19:21 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/vehicle 17"
+[7/6/2023 3:19:29 a. m.] [Info] Successfully gave PabloSerrone 17!
+[7/6/2023 3:19:29 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/vehicle"
+[7/6/2023 3:19:29 a. m.] [Error] Failed to find parameters in format [SteamID | Player]/[VehicleID].
+[7/6/2023 3:19:32 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/vehicle 1"
+[7/6/2023 3:19:48 a. m.] [Info] Successfully gave PabloSerrone 1!
+[7/6/2023 3:19:48 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/vehicle 1"
+[7/6/2023 3:19:48 a. m.] [Info] Successfully gave PabloSerrone 1!
+[7/6/2023 3:20:38 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 519"
+[7/6/2023 3:22:04 a. m.] [Info] Successfully gave PabloSerrone 519 x1!
+[7/6/2023 3:22:04 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/fly"
+[7/6/2023 3:22:53 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 1300"
+[7/6/2023 3:22:53 a. m.] [Info] Successfully gave PabloSerrone 1300 x1!
+[7/6/2023 3:23:10 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/vehicle 1300"
+[7/6/2023 3:23:10 a. m.] [Error] Failed to find any vehicle called 1300.
+[7/6/2023 3:24:01 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 786"
+[7/6/2023 3:24:01 a. m.] [Error] Failed to find any item called 786.
+[7/6/2023 3:24:14 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 786"
+[7/6/2023 3:24:14 a. m.] [Error] Failed to find any item called 786.
+[7/6/2023 3:24:22 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 1300"
+[7/6/2023 3:24:22 a. m.] [Info] Successfully gave PabloSerrone 1300 x1!
+[7/6/2023 3:24:27 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 1300"
+[7/6/2023 3:24:27 a. m.] [Info] Successfully gave PabloSerrone 1300 x1!
+[7/6/2023 3:24:38 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 1300"
+[7/6/2023 3:24:38 a. m.] [Info] Successfully gave PabloSerrone 1300 x1!
+[7/6/2023 3:24:52 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 786"
+[7/6/2023 3:24:52 a. m.] [Error] Failed to find any item called 786.
+[7/6/2023 3:25:00 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/vehicle 786"
+[7/6/2023 3:25:00 a. m.] [Error] Failed to find any vehicle called 786.
+[7/6/2023 3:26:49 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/experience 1000"
+[7/6/2023 3:26:49 a. m.] [Info] Successfully gave PabloSerrone +1000 experience!
+[7/6/2023 3:27:03 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/experience 1000"
+[7/6/2023 3:27:03 a. m.] [Info] Successfully gave PabloSerrone +1000 experience!
+[7/6/2023 3:27:19 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/experience 1000"
+[7/6/2023 3:27:19 a. m.] [Info] Successfully gave PabloSerrone +1000 experience!
+[7/6/2023 3:27:50 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 15"
+[7/6/2023 3:28:29 a. m.] [Info] Successfully gave PabloSerrone 15 x1!
+[7/6/2023 3:28:29 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 1161"
+[7/6/2023 3:28:29 a. m.] [Info] Successfully gave PabloSerrone 1161 x1!
+[7/6/2023 3:28:49 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 14"
+[7/6/2023 3:28:49 a. m.] [Info] Successfully gave PabloSerrone 14 x1!
+[7/6/2023 3:29:34 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/give 18"
+[7/6/2023 3:30:29 a. m.] [Info] Successfully gave PabloSerrone 18 x1!
+[7/6/2023 3:30:29 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/restart"
+[7/6/2023 3:31:23 a. m.] [Info] Disconnecting: PlayerID: 76561198150589922 Name: PabloSerrone Character: Pablo Serrone

@@ -1,0 +1,50 @@
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[7/6/2023 3:48:18 a. m.] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[7/6/2023 3:48:18 a. m.] [Info] This server will automatically save every 1800 seconds
+[7/6/2023 3:48:19 a. m.] [Info] Steam servers ready!
+[7/6/2023 3:48:19 a. m.] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/Default/Workshop/Steam
+[7/6/2023 3:48:19 a. m.] [Info] 0 workshop item(s) requested
+[7/6/2023 3:48:19 a. m.] [Info] Loading level: 5%
+[7/6/2023 3:48:20 a. m.] [Info] Loading level: 10%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 15%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 21%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 26%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 31%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 36%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 42%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 47%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 52%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 57%
+[7/6/2023 3:48:21 a. m.] [Info] Loading level: 63%
+[7/6/2023 3:48:23 a. m.] [Info] Loading level: 68%
+[7/6/2023 3:48:23 a. m.] [Info] Loading level: 73%
+[7/6/2023 3:48:23 a. m.] [Info] Loading level: 89%
+[7/6/2023 3:48:23 a. m.] [Info] Loading level: 94%
+[7/6/2023 3:48:24 a. m.] [Info] Loading level: 100%
+[7/6/2023 3:51:05 a. m.] [Info] Connecting: PlayerID: 76561198150589922 Name: PabloSerrone Character: Pablo Serrone
+[7/6/2023 3:51:16 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/tp alberton"
+[7/6/2023 3:51:47 a. m.] [Info] Pablo Serrone teleported to Alberton
+[7/6/2023 3:51:47 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/god mode"
+[7/6/2023 3:52:48 a. m.] [Info] Pablo Serrone enabled Godmode
+[7/6/2023 3:52:48 a. m.] [Info] [World] Pablo Serrone [PabloSerrone]: "/god mode"
+[7/6/2023 3:52:48 a. m.] [Info] Pablo Serrone disabled Godmode
+[7/6/2023 3:53:11 a. m.] [Info] Disconnecting: PlayerID: 76561198150589922 Name: PabloSerrone Character: Pablo Serrone
